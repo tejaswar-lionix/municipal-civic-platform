@@ -4,3 +4,5 @@
 ### feat: add assignments, resolution SLA, and geospatial ward clustering - 2025-06-18T14:20:00+05:30
 
 ### feat: add media, notifications, and analytics KPIs - 2025-06-25T09:30:00+05:30
+
+### feat: add feedback, escalation, integrations 311 - 2025-07-02T11:00:00+05:30
