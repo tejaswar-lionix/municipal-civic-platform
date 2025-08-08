@@ -3317,3 +3317,8 @@ def extra_issues_910(x):
 def extra_issues_911(x):
     """Extra distinct 911 for issues"""
     return x
+
+# feat: add issues geo validation for pothole and ward required - feature/issues-geo
+def geo_extra(lat,lon):
+    return lat!=0 and lon!=0
+
