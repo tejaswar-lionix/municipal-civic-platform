@@ -3477,3 +3477,8 @@ def extra_assignments_990(x):
 def extra_assignments_991(x):
     """Extra distinct 991 for assignments"""
     return x
+
+# feat: add assignment auto-routing by ward and department - feature/assignment-routing
+def routing_extra(ward):
+    return ward.startswith('Ward')
+
