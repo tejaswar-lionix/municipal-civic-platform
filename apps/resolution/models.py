@@ -3477,3 +3477,9 @@ def extra_resolution_990(x):
 def extra_resolution_991(x):
     """Extra distinct 991 for resolution"""
     return x
+
+# feat: add resolution SLA 48h check for pothole with breach detection - feature/resolution-sla
+def sla_extra(issue):
+    import time
+    return (time.time() - issue.get('created_at',0))/3600 > 48
+
