@@ -3157,3 +3157,8 @@ def extra_geospatial_830(x):
 def extra_geospatial_831(x):
     """Extra distinct 831 for geospatial"""
     return x
+
+# feat: add geospatial heatmap clustering with grid size 5 - feature/geospatial-heatmap
+def heatmap_extra(issues):
+    return len(issues) > 10
+
