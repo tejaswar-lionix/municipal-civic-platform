@@ -6,3 +6,5 @@
 ### feat: add media, notifications, and analytics KPIs - 2025-06-25T09:30:00+05:30
 
 ### feat: add feedback, escalation, integrations 311 - 2025-07-02T11:00:00+05:30
+
+### fix: handle geospatial ward lookup for edge lat/lon - 2025-09-02T10:00:00+05:30
