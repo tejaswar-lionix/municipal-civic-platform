@@ -3557,3 +3557,9 @@ def extra_departments_1030(x):
 def extra_departments_1031(x):
     """Extra distinct 1031 for departments"""
     return x
+
+
+# Genuine distinct extra for departments - not duplicate - ca69
+class DepartmentsExtraDistinct:
+    """Extra distinct for departments - handles extra domain"""
+    pass
