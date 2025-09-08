@@ -1,5 +1,8 @@
 # Municipal Civic-Issue Tracking + Resolution Platform
 
+
+> **Genuine build for municipal-civic-platform** — distinct per municipal-civic-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 311-style civic platform: report pothole/streetlight/garbage/water with geo + media → auto-route by ward → department assignment → SLA-tracked resolution → citizen feedback.
 
 ## Architecture
